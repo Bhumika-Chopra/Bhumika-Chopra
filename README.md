@@ -1,6 +1,6 @@
 <h2> Hi, I'm Bhumika! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjN4ZWw3dGo0YjJ2aTJoNTlic2I3OG44dmthbDc1cTVmamF5bndxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://www.mavensecurities.com/">Maven Securities</a><img src="https://media.tenor.com/BoDofDkAurYAAAAC/peachcry-peachmad.gif" width="40">
+<p><em>Software Engineer at <a href="https://www.mavensecurities.com/">Maven Securities</a><img src="https://media.tenor.com/BoDofDkAurYAAAAC/peachcry-peachmad.gif" width="40">
 </em></p>
 
 [![Linkedin: bhumika-chopra](https://img.shields.io/badge/LinkedIn-0077B5?logo=bhumikachopra&logoColor=white)](https://www.linkedin.com/in/bhumika-chopra-740717165)
