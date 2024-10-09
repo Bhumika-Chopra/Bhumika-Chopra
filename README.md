@@ -18,8 +18,12 @@ const bhumika = {
                         mentor: "GirlsWhoCode",
                         mentor: "TechLadies",
                     },
- challenge: "Solve a GeeksForGeeks POTD each day!"
+ challenge: "Solve a GeeksForGeeks POTD each day!",
+ funFacts: [
+            "Active in coding communities and love mentoring",
+            "Enjoy reading novels; would love some good recs:)", 
+          ]
 }
 ```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to reach out <b>I'll be happy to chat!</b> :)</em>
+<em><b>I love connecting with different <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> </b> so if you want to reach out <b>I'll be happy to chat!<br></br>
+Here's how to reach me via [e-mail](mailto:bhumikasunilchopra@gmail.com)</b> :)</em> <br> 
