@@ -1,29 +1,49 @@
-<h2> Hi, I'm Bhumika! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjN4ZWw3dGo0YjJ2aTJoNTlic2I3OG44dmthbDc1cTVmamF5bndxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="https://www.mavensecurities.com/">Maven Securities</a><img src="https://media.tenor.com/BoDofDkAurYAAAAC/peachcry-peachmad.gif" width="40">
-</em></p>
+# Hi, I'm Bhumika Chopra
 
-[![Linkedin: bhumika-chopra](https://img.shields.io/badge/LinkedIn-0077B5?logo=bhumikachopra&logoColor=white)](https://www.linkedin.com/in/bhumika-chopra-740717165)
-[![GitHub bhumika-chopra](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Bhumika-Chopra)
+**MS in Computer Science at Georgia Tech · Systems for Machine Learning**
 
+I build and explore systems that make machine learning efficient. My interests span **SysML, CUDA, distributed systems, and ML inference optimization**.
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+[Website](https://bhumika-chopra.github.io/) · [LinkedIn](https://www.linkedin.com/in/bhumika-chopra-740717165/) · [Email](mailto:bhumika.chicago@gmail.com)
 
-```javascript
-const bhumika = {
-  pronouns: "she" | "her",
-  languages: [C++, Python, C#, Java, Julia, MATLAB, HTML, CSS,],
-  architecture: ["design system pattern", "low latency development", "financial maths"],
-  techCommunities: {
-                        mentor: "GirlsWhoCode",
-                        mentor: "TechLadies",
-                    },
- challenge: "Solve a GeeksForGeeks POTD each day!",
- funFacts: [
-            "Active in coding communities and love mentoring",
-            "Enjoy reading novels; would love some good recs:)", 
-          ]
-}
-```
-<em><b>I love connecting with different <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> </b> so if you want to reach out <b>I'll be happy to chat!<br></br>
-Here's how to reach me via [e-mail](mailto:bhumikasunilchopra@gmail.com)</b> :)</em> <br> 
+## What I'm working on
+
+- **Setu:** contributing to a global tensor exchange for distributed deep learning workloads. [My fork](https://github.com/Bhumika-Chopra/setu) · [Upstream project](https://github.com/project-vajra/setu)
+- **Currently:** interning at a startup in the machine learning inference domain.
+- **Graduate study:** pursuing an MS in Computer Science at Georgia Tech, with a focus on systems for ML.
+
+## Experience
+
+| Organization | Work |
+| --- | --- |
+| Startup | Current internship in machine learning inference |
+| AWS | SDE internship building AI/LLM agents |
+| Maven Securities | Software engineering on options pricing, low latency systems, and volatility models; left to pursue my MSCS |
+| IIT Delhi | Background in mathematics and computer science |
+
+## Languages & tools
+
+**C++ · Python · C · C# · Java · Julia · AWS**
+
+Current technical interests: **CUDA · GPU programming · distributed systems · inference optimization**.
+
+## Selected public projects
+
+| Project | Focus |
+| --- | --- |
+| [Setu contribution](https://github.com/Bhumika-Chopra/setu) | Distributed tensor exchange; fork of the upstream project |
+| [NanoGPT](https://github.com/Bhumika-Chopra/NanoGPT) | Building GPT from scratch |
+| [Political Bias Detection in News](https://github.com/Bhumika-Chopra/CS-7641-Political-Bias-Detection-in-News) | Georgia Tech CS 7641 ML group project |
+| [Compiler Fault Localization](https://github.com/Bhumika-Chopra/CS-6390-PL-Fault-Localization) | Code complexity hotspots using AST and compiler feedback |
+| [Neural Image Denoising](https://github.com/Bhumika-Chopra/BTP) | Deep neural network approximation |
+
+## GitHub activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Bhumika-Chopra&show_icons=true&hide_border=true&bg_color=0b0f19&title_color=e5e7eb&text_color=9ca3af&icon_color=93b4f4" />
+  <img alt="Bhumika's GitHub contribution statistics" src="https://github-readme-stats.vercel.app/api?username=Bhumika-Chopra&show_icons=true&hide_border=true&bg_color=f8fafc&title_color=111827&text_color=475569&icon_color=315fa8" />
+</picture>
+
+[Explore my repositories](https://github.com/Bhumika-Chopra?tab=repositories) · [View my contribution history](https://github.com/Bhumika-Chopra)
+
+<sub>Statistics are provided by an external service and may occasionally be unavailable.</sub>
